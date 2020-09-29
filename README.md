@@ -18,10 +18,11 @@ NPM
 To get the project working:
 
 ```
-1.- Navigate to the client/ folder and run npm install
-2.- Navigate to the server/ folder and run npm install
-3.- if needed you can change the port of the server/ project in the index.js file but if you changed it you must change it
- too in the App.js file in the client/ folder
+1.- Navigate to the client/ folder and run npm install.
+2.- Navigate to the server/ folder and run npm install.
+3.- If needed you can change the port of the server/ project in the index.js file but if you changed it you must change it too in the App.js file in the client/ folder.
+4.- For running the client project in your terminal navigate to the client/ folder and run npm run start.
+5.- For running the server project in your terminal navigate to the server/ folder and run npm run start.
 ```
 
 ## Running the tests
